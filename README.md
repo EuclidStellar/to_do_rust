@@ -102,8 +102,3 @@ Insert gif or link to demo
 
 Contributions are always welcome!
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-Make this readme file beautiful and attractive without distorting the humor used in this
